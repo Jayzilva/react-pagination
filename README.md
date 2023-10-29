@@ -1,1 +1,1 @@
-# thirdweb-fir
+https://jsonplaceholder.typicode.com/posts
